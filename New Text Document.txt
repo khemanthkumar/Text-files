@@ -1,2 +1,7 @@
 this is a text file....
+<<<<<<< HEAD
 i am sucessfully created branches.
+=======
+files to be stored in jar format.
+files are very confidential.
+>>>>>>> home
