@@ -1,2 +1,3 @@
 this is my home page.
 here i am going to give basic deatails.
+it shuld cantain logo of the company.
