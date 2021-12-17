@@ -2,4 +2,6 @@ this is my home page.
 here i am going to give basic deatails.
 basic details such as looks of the page.
 looks to be simple.
+border shuld be added.
+
 
