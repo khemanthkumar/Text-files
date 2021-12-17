@@ -1,5 +1,5 @@
 this is my home page.
 here i am going to give basic deatails.
-it shuld cantain logo of the company.
-logo shuld be in medium size.
+basic details such as looks of the page.
+
 
